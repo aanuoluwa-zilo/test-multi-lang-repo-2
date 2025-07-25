@@ -1,0 +1,12 @@
+[app]
+name = "Multi-Language App 2"
+version = "1.0.0"
+debug = true
+
+[server]
+port = 3000
+host = "localhost"
+
+[database]
+url = "postgresql://localhost:5432/mydb"
+pool_size = 10
