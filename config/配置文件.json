@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name": "Unicode Test App 2",
+    "version": "1.0.0",
+    "description": "Приложение для тестирования Unicode"
+  },
+  "server": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "测试配置": {
+    "debug": true,
+    "logLevel": "info"
+  }
+}
